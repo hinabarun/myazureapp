@@ -1,0 +1,1 @@
+# myazureapp
